@@ -121,14 +121,14 @@ bash
 pip install numpy matplotlib
 
 
-## Datos optenidos en simulacion
+## Datos obtenidos en simulacion
 - pasa bajos
 <img src="doc/pasa_bajos.png" alt="Pasa Bajos" width="500"/>
 
--pasa altos
+- pasa altos
 <img src="doc/pasa_altos.png" alt="Pasa Altos" width="500"/>
 
--pasa banda
+- pasa banda
 <img src="doc/pasa_banda.png" alt="Pasa banda" width="500"/>
 
 
