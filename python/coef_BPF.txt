@@ -1,0 +1,9 @@
+// Coeficientes FIR BPF en formato Q2.14 (escala 16384)
+cargar_coeficiente(3'd0, 16'sd-360);
+cargar_coeficiente(3'd1, 16'sd-1484);
+cargar_coeficiente(3'd2, 16'sd-1388);
+cargar_coeficiente(3'd3, 16'sd3232);
+cargar_coeficiente(3'd4, 16'sd3232);
+cargar_coeficiente(3'd5, 16'sd-1388);
+cargar_coeficiente(3'd6, 16'sd-1484);
+cargar_coeficiente(3'd7, 16'sd-360);
