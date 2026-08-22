@@ -49,7 +49,6 @@ La herramienta permite:
 
 El flujo de prueba actual es:
 
-```text
 Python
    │
    ▼
