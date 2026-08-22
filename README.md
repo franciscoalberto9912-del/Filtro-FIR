@@ -117,7 +117,7 @@ Ideal para verificar filtros **pasa bajos (LPF)**, **pasa altos (HPF)** y **pasa
 
 Instálalas con:
 
-```bash
+bash
 pip install numpy matplotlib
 
 
